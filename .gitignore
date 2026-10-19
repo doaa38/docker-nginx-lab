@@ -1,0 +1,5 @@
+scratch/
+*.bak
+*.pem
+*.tgz
+notes.md
